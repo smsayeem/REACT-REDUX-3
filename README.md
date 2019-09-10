@@ -1,3 +1,14 @@
+## App overview notes
+
+Basic React and Redux app(It will display a number of posts as well as let us create new posts and display it in the listing)
+
+    - Created redux store
+    - Fetched data from external source(https://jsonplaceholder.typicode.com/) and add posts in the redux store
+    - Display all posts in the page
+    - Created a form to create new post
+    - Add the new post in the beginning of the listing of posts in the page
+    - No express database created
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
